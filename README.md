@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZarexRd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in with Crackers
+- 🌱 I’m currently learning Python
 - 📺 i'm YouTube Channel : Zarex Rd
 - 📫 How to reach me ? Instagram : zarexrd
 
