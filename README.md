@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ZarexRd
 - 👀 I’m interested in with Crackers
 - 🌱 I’m currently learning Python
-- 📺 i'm YouTube Channel : Zarex Rd
-- 📫 How to reach me ? Instagram : zarexrd
+- 📺 i'm Tiktok Channel : zarexrd
 
 <!---
 ZarexRd/ZarexRd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
